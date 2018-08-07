@@ -225,3 +225,5 @@ Run your test cases and you’ll verify it is working as expected: CTRL-SHIFT-F1
 
 ![test errors](resources/test-success.png)
 
+
+Happy Coding!
